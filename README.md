@@ -1,5 +1,5 @@
 
-# Angular 14 E-Commerce Store
+# Angular 14 E-Commerce Store project
 
 This project was done thanks to freeCodeCamp (https://www.freecodecamp.org), Slobodan Gajić (https://github.com/bobangajicsm) and his tutorial: https://www.youtube.com/watch?v=-QV07KcnJEk
 
